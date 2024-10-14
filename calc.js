@@ -15,7 +15,7 @@ else if (num % 5 === 0) {
   console.log('5の倍数です');
 }
 
-//それ以外の場合： 変数(num)を出力する
+//それ以外の場合： 変数を出力する
 else {
-  console.log('num');
+  console.log(num);
 }
